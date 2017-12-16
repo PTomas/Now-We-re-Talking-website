@@ -1,2 +1,3 @@
-# Now-You-re-Talking-website
-description of Whats talking app
+# Now-We-re-Talking-website
+
+This app facilitates debate of political issues 
